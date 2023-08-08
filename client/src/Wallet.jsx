@@ -16,7 +16,7 @@ function Wallet({ address, setAddress, balance, setBalance }) {
 
   return (
     <div className="container wallet">
-      <h1>Your Wallet</h1>
+      <h1>Your EVM Wallet</h1>
 
       <label>
         Wallet Address
